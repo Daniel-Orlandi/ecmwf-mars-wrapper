@@ -44,6 +44,6 @@ data request in valid MARS format in it i.e:
 
 more info on how to get a valid ECMWF data request on: https://www.ecmwf.int/en/forecasts/access-forecasts/ecmwf-web-api
 Usage example:
-downloader.py <path-to-request-file>
+python downloader.py --help
 
    
